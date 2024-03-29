@@ -1,0 +1,3 @@
+# Find minimum integer from the array
+
+Start typing here...

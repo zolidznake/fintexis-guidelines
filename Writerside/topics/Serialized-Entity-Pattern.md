@@ -1,0 +1,3 @@
+# Serialized Entity Pattern
+
+Start typing here...

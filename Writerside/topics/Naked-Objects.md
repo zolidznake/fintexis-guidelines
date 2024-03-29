@@ -1,0 +1,3 @@
+# Naked Objects
+
+Start typing here...

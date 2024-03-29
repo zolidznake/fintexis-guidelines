@@ -1,0 +1,3 @@
+# Find maximum integer from the array
+
+Start typing here...

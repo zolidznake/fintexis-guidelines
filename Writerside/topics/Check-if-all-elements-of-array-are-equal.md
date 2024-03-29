@@ -1,0 +1,3 @@
+# Check if all elements of array are equal
+
+Start typing here...

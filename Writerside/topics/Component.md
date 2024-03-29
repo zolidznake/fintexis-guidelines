@@ -1,0 +1,3 @@
+# Component
+
+Start typing here...

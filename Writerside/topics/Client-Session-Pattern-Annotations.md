@@ -1,0 +1,3 @@
+# Client Session Pattern Annotations
+
+Start typing here...

@@ -1,0 +1,3 @@
+# Find sum of integer array
+
+Start typing here...

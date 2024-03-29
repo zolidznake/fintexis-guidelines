@@ -1,0 +1,3 @@
+# Naked Objects Annotations
+
+Start typing here...

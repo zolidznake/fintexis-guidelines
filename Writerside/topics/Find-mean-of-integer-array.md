@@ -1,0 +1,3 @@
+# Find mean of integer array
+
+Start typing here...
