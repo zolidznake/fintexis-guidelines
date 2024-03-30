@@ -6,6 +6,7 @@ properties to achieve a more modular and extensible design. It leverages the **c
 in more dynamic languages like JavaScript or Python.
 
 <code-block lang="plantuml">
+
 @startuml
 !theme  vibrant
 
@@ -203,7 +204,5 @@ Concrete --> Client: return Optional<T>
 deactivate Concrete
 
 @enduml
-
-
 </code-block>
 
