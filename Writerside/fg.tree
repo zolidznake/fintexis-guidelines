@@ -5,9 +5,7 @@
 <instance-profile id="fg"
                  name="Fintexis Guidelines"
                  start-page="starter-topic.md">
-    <toc-element topic="Performance-Measure-Strategies.md">
-        <toc-element topic="Using-Guava-Lib.md"/>
-    </toc-element>
+    <toc-element topic="starter-topic.md"/>
     <toc-element topic="Default-topic.md">
         <toc-element topic="Interoperability.md"/>
         <toc-element topic="Reusability.md"/>
@@ -337,6 +335,10 @@
         <toc-element topic="Version-Number-Annotations.md"/>
         <toc-element topic="Visitor-Annotations.md"/>
     </toc-element>
+    <toc-element topic="Testing.md"/>
+    <toc-element topic="Performance-Measure-Strategies.md">
+        <toc-element topic="Using-Guava-Lib.md"/>
+    </toc-element>
     <toc-element topic="Code-Samples.md"/>
     <toc-element topic="Algorithms.md">
         <toc-element topic="Arrays.md">
@@ -377,6 +379,4 @@
         <toc-element topic="List-files-in-directory.md"/>
         <toc-element topic="List-directories.md"/>
     </toc-element>
-    <toc-element topic="Testing.md"/>
-    <toc-element topic="starter-topic.md"/>
 </instance-profile>
