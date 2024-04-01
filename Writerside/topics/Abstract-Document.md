@@ -101,6 +101,9 @@ Apply the Abstract Document Pattern to manage dynamic properties of objects in y
 
 Here's a basic example of how to implement the Abstract Document Pattern in Java:
 
+![AbstractDocumentExample.png](AbstractDocumentExample.png)
+
+
 <code-block lang="java">
 
 import java.util.Optional;
